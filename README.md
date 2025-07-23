@@ -6,3 +6,6 @@ A simple JavaScript project that changes the background color of the page to a r
 - Random hex color generator
 - DOM manipulation
 - Smooth background transition
+- 
+## 🔗 Live Link
+[Click here to view the Color Changer Project]  https://yuktinandwana.github.io/Color-Changer-Project/
